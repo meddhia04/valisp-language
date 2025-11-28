@@ -4,6 +4,7 @@
 #include <stdio.h>
 
 /*test push*/
+/*test pull*/
 /*TP3 exo1 1.*/
 sexpr ENV =NULL;
 /*2*/
